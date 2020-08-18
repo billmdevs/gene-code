@@ -1,6 +1,6 @@
 # gene-code
 
-Code for the research work on the *predictive analysis and modeling of disease classes using genetic data.*
+Code for the research work on the *Predictive Analysis and Modeling of Disease Classes using Genetic Data.*
 
 
 **_Abstract_** ​:

@@ -11,4 +11,4 @@ The dataset is extracted from a DNA microarray which measures the expression lev
 numbers of genes simultaneously. Samples in the datasets represent patients; for each patient
 7070 genes expressions (values) are measured in order to classify the patient’s disease into one
 of the following cases: EPD, JPA, MED, MGL, RHB.
-**_Keywords—_** ​ ​disease prediction; Machine Learning Algorithm; genetic microarray.
+**_Keywords—_** ​ ​Disease prediction; Machine Learning Algorithm; Genetic microarray.

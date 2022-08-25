@@ -1,4 +1,4 @@
-# gene-code
+# *Gene-code*
 
 Code and content for the final research project work on the *Predictive Analysis and Modeling of Disease Classes using Genetic Data.*
 

@@ -1,6 +1,6 @@
 # **Gene-code**
 
-Code and content for the final research project work on the *Predictive Analysis and Modeling of Disease Classes using Deep Learning and Genetic Microarray Data.*
+Paper, Code and data for the final research project work on the *Predictive Analysis and Modeling of Disease Classes using Deep Learning and Genetic Microarray Data.*
 
 
 **_Abstract_** ​:
